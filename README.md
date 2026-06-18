@@ -54,6 +54,22 @@ this project was developed as an upgrade from a console-based application into a
 
 ---
 
+## 🖥️ system walkthrough (gui)
+
+### home page
+![home page](assets/home-page.png)
+
+### admin dashboard
+![admin dashboard](assets/admin-dashboard.png)
+
+### add reservation
+![add reservation](assets/add-reservation.png)
+
+### view reservations
+![view reservations](assets/view-reservations.png)
+
+---
+
 ## uml diagram
 
 ![uml diagram](assets/uml-diagram.png)
