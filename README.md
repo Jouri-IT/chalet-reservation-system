@@ -54,6 +54,12 @@ this project was developed as an upgrade from a console-based application into a
 
 ---
 
+## uml diagram   👈 ADD IT HERE
+
+![uml diagram](assets/uml-diagram.png)
+
+---
+
 ## data persistence
 
 - chalet data is stored in `chalets.dat`  
